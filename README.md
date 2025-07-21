@@ -64,10 +64,6 @@ Starbucks-Market-Intelligence/
    - Open `Starbucks_Dashboard.pbix` using Power BI Desktop
    - Refresh the data sources if necessary
 
-## 📈 Dashboard Preview
-
-> *(Include screenshots from your `assets/screenshots/` folder)*
-
 ## ✍️ Author
 
 **Nupoor Chaudhary**  
